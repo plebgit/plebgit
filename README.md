@@ -42,8 +42,8 @@ Here are some of my featured projects. Each has full documentation, architecture
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** [Christian Rodriguez](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [YourUsername](https://github.com/YourUsername)  
-- **Email:** youremail@example.com  
+- **LinkedIn:** Christian Rodriguez https://www.linkedin.com/in/chr1stianrodriguez
+- **GitHub:** plebgit https://github.com/plebgit
+- **Email:** christianrdz0404@gmail.com 
 
 ---
