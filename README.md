@@ -24,10 +24,10 @@ Here are some of my featured projects. Each has full documentation, architecture
 ---
 
 ## 📜 Certifications (in progress / earned)
-- [ ] Microsoft Certified: **Azure Administrator Associate (AZ-104)**  
-- [ ] Microsoft Certified: **Azure Solutions Architect Expert**  
-✅ CompTIA **Security+**  
-- [ ] ITIL v4 Foundations  
+-  Microsoft Certified: **Azure Administrator Associate (AZ-104)**  
+-  Microsoft Certified: **Azure Solutions Architect Expert**  
+- ✅ CompTIA **Security+**  
+-  ITIL v4 Foundations  
 
 ---
 
