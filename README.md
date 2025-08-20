@@ -37,7 +37,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 - **Scripting:** PowerShell, Azure CLI, Bash  
 - **Networking:** VPNs, VNet Peering, Subnets, UDRs, NSGs  
 - **Security:** Azure AD, RBAC, MFA, RMF concepts  
-- **Collaboration:** GitHub, Jira, Confluence  
+- **Collaboration:** GitHub
 
 ---
 
