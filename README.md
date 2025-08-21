@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Christian Rodriguez
+# 👋 Hi, I’m Christian
 
 🔹 **Cloud Support Engineer** pursuing my **Bachelor’s in Cloud Computing** and specializing in **Azure & cloud migrations**.  
 🔹 Focused on building expertise in **cloud administration, migrations, and modernization** to support defense and enterprise cloud initiatives.  
