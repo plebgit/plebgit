@@ -17,7 +17,7 @@ Here are some of my featured projects. Each has full documentation, architecture
    - Configured secure **site-to-site VPN** between simulated on-prem and Azure  
    - Focus on networking, routing, and connectivity  
 
-3. [Web App Deployment with Azure App Service](https://github.com/YourUsername/cloud-projects/tree/main/project-3-webapp-deploy)  
+3. [Web App Deployment with Azure App Service](https://github.com/plebgit/OneOffProjects/blob/main/Webapp%20deployment%20with%20Azure%20App%20Service/README.md)  
    - Deployed containerized web app using **Azure App Services**  
    - Implemented CI/CD with GitHub Actions  
 
