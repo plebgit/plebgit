@@ -24,6 +24,8 @@ Here are some of my featured projects. Each has full documentation, architecture
 ---
 
 ## 📜 Certifications (in progress / earned)
+- ![AZ-104](https://img.shields.io/badge/Azure%20Administrator%20Associate-AZ104-blue?logo=microsoft-azure)
+- ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia)
 -  Microsoft Certified: **Azure Administrator Associate (AZ-104)**  
 -  Microsoft Certified: **Azure Solutions Architect Expert**  
 - ✅ CompTIA **Security+**  
