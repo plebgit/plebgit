@@ -13,7 +13,7 @@ Here are some of my featured projects. Each has full documentation, architecture
    - Simulated Hyper-V → Azure migration using **Azure Migrate**  
    - Includes discovery, replication, cutover, and optimization steps  
 
-2. [Hybrid VPN Setup](https://github.com/plebgit/OneOffProjects/blob/main/Hybrid%20VPN%20S2S)  https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
+2. [Hybrid VPN Setup](https://github.com/plebgit/OneOffProjects/blob/main/Hybrid%20VPN%20S2S)
    - Configured secure **site-to-site VPN** between simulated on-prem and Azure  
    - Focus on networking, routing, and connectivity  
 
