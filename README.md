@@ -9,7 +9,7 @@
 ## ☁️ Cloud Projects Portfolio (Test)
 Here are some of my featured projects. Each has full documentation, architecture diagrams, and scripts:  
 
-1. [On-Prem to Azure VM Migration](https://github.com/YourUsername/cloud-projects/tree/main/project-1-azure-migrate)  
+1. [On-Prem to Azure VM Migration](https://github.com/plebgit/OneOffProjects/blob/main/OnPrem%20to%20AzureVM%20Migration/README.md)  
    - Simulated Hyper-V → Azure migration using **Azure Migrate**  
    - Includes discovery, replication, cutover, and optimization steps  
 
