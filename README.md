@@ -6,7 +6,7 @@
 
 ---
 
-## ☁️ Cloud Projects Portfolio (Test)
+## ☁️ Cloud Projects Portfolio (Test) Add python,powershell,Bash projects
 Here are some of my featured projects. Each has full documentation, architecture diagrams, and scripts:  
 
 1. [On-Prem to Azure VM Migration](https://github.com/plebgit/OneOffProjects/blob/main/OnPrem%20to%20AzureVM%20Migration/README.md)  
