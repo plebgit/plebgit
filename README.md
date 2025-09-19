@@ -24,10 +24,20 @@ Here are some of my featured projects. Each has full documentation, architecture
 ---
 
 ## 📜 Certifications (in progress / earned)
--  Microsoft Certified: **Azure Administrator Associate (AZ-104)**  
--  Microsoft Certified: **Azure Solutions Architect Expert**  
-- ✅ CompTIA **Security+**  
--  ITIL v4 Foundations  
+-  Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)** (WGU)
+-  Microsoft Certified: **Azure Developer Associate (DP-204)** (WGU)
+-  Microsoft Certified: **Azure Administrator Associate (AZ-104)** (WGU)
+- ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)** (WGU)
+- ✅ CompTIA **Security+** (WGU)
+- ✅ CompTIA **Cloud+** (WGU)
+-  CompTIA **Project+** (WGU)
+-  CompTIA **Network+** (WGU)
+-  CompTIA **Linux+** (WGU)
+-  CompTIA **A+**
+-  AWS Certified: **Certified Solutions Architect - Associate** (WGU)
+- ✅ AWS Certified: **Cloud Practitioner** (WGU)
+-  ITIL v4 Foundations (WGU)
+- ✅ (LPI) Linux Essentials Certification (WGU)
 
 ---
 
