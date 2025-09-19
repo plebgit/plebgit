@@ -37,7 +37,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  CompTIA: **Network+** (WGU)
 -  CompTIA: **Linux+** (WGU)
 -  CompTIA: **A+** (WGU)
--  ITIL v4 Foundations (WGU)
+-  ITIL v4 Foundations (WGU) 9/23
 - ✅ LPI: Linux Essentials Certification (WGU)
 
 
