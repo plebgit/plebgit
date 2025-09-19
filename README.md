@@ -24,6 +24,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 ---
 
 ## 📜 Certifications (in progress / earned)
+-  Red Hat **Certified System Administrator RHCSA**
 -  Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)** (WGU)
 -  Microsoft Certified: **Azure Developer Associate (DP-204)** (WGU)
 -  Microsoft Certified: **Azure Administrator Associate (AZ-104)** (WGU)
@@ -38,7 +39,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  CompTIA **A+** (WGU)
 -  ITIL v4 Foundations (WGU)
 - ✅ (LPI) Linux Essentials Certification (WGU)
-- Red Hat **Certified System Administrator RHCSA**
+
 
 ---
 
