@@ -38,6 +38,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  CompTIA **A+** (WGU)
 -  ITIL v4 Foundations (WGU)
 - ✅ (LPI) Linux Essentials Certification (WGU)
+- Red Hat **Certified System Administrator RHCSA**
 
 ---
 
