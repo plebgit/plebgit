@@ -33,7 +33,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  CompTIA **Project+** (WGU)
 -  CompTIA **Network+** (WGU)
 -  CompTIA **Linux+** (WGU)
--  CompTIA **A+**
+-  CompTIA **A+** (WGU)
 -  AWS Certified: **Certified Solutions Architect - Associate** (WGU)
 - ✅ AWS Certified: **Cloud Practitioner** (WGU)
 -  ITIL v4 Foundations (WGU)
