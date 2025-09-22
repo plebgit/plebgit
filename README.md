@@ -27,7 +27,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  Red Hat: **Certified System Administrator RHCSA**
 -  Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)** (WGU)
 -  Microsoft Certified: **Azure Developer Associate (DP-204)** (WGU)
--  Microsoft Certified: **Azure Administrator Associate (AZ-104)** (WGU) 9/19
+-  Microsoft Certified: **Azure Administrator Associate (AZ-104)** (WGU) 9/29
 - ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)** (WGU)
 -  AWS Certified: **Certified Solutions Architect - Associate** (WGU)
 - ✅ AWS Certified: **Cloud Practitioner** (WGU)
@@ -37,7 +37,7 @@ Here are some of my featured projects. Each has full documentation, architecture
 -  CompTIA: **Network+** (WGU)
 -  CompTIA: **Linux+** (WGU)
 -  CompTIA: **A+** (WGU)
--  ITIL v4 Foundations (WGU) 9/23
+-  ITIL v4 Foundations (WGU) 10/1
 - ✅ LPI: Linux Essentials Certification (WGU)
 
 
